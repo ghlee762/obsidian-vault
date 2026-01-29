@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "b3530b256134218f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ae54796388384bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96e2d02b9c2b0ca1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phase1_기본환경설정_도구설치.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phase1_기본환경설정_도구설치"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "493dcf657b19e486",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd3e834dfb7dceb2",
+        "type": "tabs",
+        "dimension": 70.70422535211267,
+        "children": [
+          {
+            "id": "55d416360b50ca84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "5e2db6919eb7da49",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "https://git-scm.com",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          }
+        ]
+      },
+      {
+        "id": "757af079e404a4aa",
+        "type": "tabs",
+        "dimension": 29.295774647887324,
+        "children": [
+          {
+            "id": "18d2026851ef461a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb083fb1a182f6af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4efc6f15dc1dfd21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b43688f576f5a0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Phase1_기본환경설정_도구설치.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Phase1_기본환경설정_도구설치 의 백링크"
+            }
+          },
+          {
+            "id": "8500c495c39ba37b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Phase1_기본환경설정_도구설치.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Phase1_기본환경설정_도구설치 의 나가는 링크"
+            }
+          },
+          {
+            "id": "ef9cc2e18436d173",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "f95573490f226a72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Phase1_기본환경설정_도구설치.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Phase1_기본환경설정_도구설치 의 개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "279311132e279f47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5b8ce4b1dd0084",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "96e2d02b9c2b0ca1",
+  "lastOpenFiles": [
+    "Phase1_기본환경설정_도구설치.md",
+    "Inbox/프론트매터.md",
+    "Inbox/---.md",
+    "무제/환영합니다!.md",
+    "무제.canvas",
+    "무제 1",
+    "Daily Notes",
+    "2026-01-27.md",
+    "무제.base",
+    "Files",
+    "Inbox",
+    "무제"
+  ]
+}
