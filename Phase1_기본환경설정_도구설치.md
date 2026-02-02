@@ -347,7 +347,7 @@ https://github.com/사용자명/obsidian-퇴직준비세미나
 > Private 저장소는 제가 확인할 수 없습니다. 저장소 설정에서 **Public**인지 확인하세요.
 
 ### 4.6 제출물
-- [ ] **GitHub 저장소 URL** (예: `https://github.com/사용자명/obsidian-퇴직준비세미나`)
+		- [ ] **GitHub 저장소 URL** (예: `https://github.com/사용자명/obsidian-퇴직준비세미나`)
 - [ ] **저장소에 Obsidian Vault 파일이 업로드된 스크린샷**
 
 ---
