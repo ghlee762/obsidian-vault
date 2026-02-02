@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phase1_기본환경설정_도구설치.md",
+                "file": "test1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Phase1_기본환경설정_도구설치"
+              "title": "test1"
             }
           }
         ]
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phase1_기본환경설정_도구설치.md",
+                "file": "test1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Phase1_기본환경설정_도구설치 의 개요"
+              "title": "test1 의 개요"
             }
           }
         ],
@@ -209,8 +209,8 @@
   },
   "active": "96e2d02b9c2b0ca1",
   "lastOpenFiles": [
-    "test1.md",
     "Phase1_기본환경설정_도구설치.md",
+    "test1.md",
     "무제.canvas",
     "text1.txt",
     "Inbox/프론트매터.md",
