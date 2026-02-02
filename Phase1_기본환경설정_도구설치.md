@@ -500,7 +500,7 @@ pip 23.3.2 from ... (python 3.11)
 
 ■ 과제 완료 현황:
 1. Obsidian 설치 및 Vault 생성: ✅ 완료
-2. Claude Code 설치: ✅ 완료 (claude --version: X.X.X)
+2. Claude Code 설치: ✅ 완료 (claude --version: 1.1.23)
 3. Git 설치: ✅ 완료 (git version 2.52.0.windows.1)
 4. GitHub 저장소 생성 및 업로드: ✅ 완료
 5. Node.js 설치: ✅ 완료 (버전: v24.13.0py)
@@ -510,10 +510,10 @@ pip 23.3.2 from ... (python 3.11)
 https://github.com/geunho762/-Obsidian-seminar
 
 ■ 어려웠던 점 또는 질문사항:
-처음하는 것이라 모든 석이 새롭고 쉽지않네요. 여러번 하여 겨우했는데 환경설정이 질 되었는 모르겠습니다.
+처음하는 것이라 모든 석이 새롭고 쉽지않네요. 여러번 하여 겨우했는데 환경설정이 잘 되었는 모르겠습니다.
+Obsidian Vault가 Github에 업로드가 잘 안되는 것 같습니다.
+Git과 Obsidian-Vault가 있는 폴더의 연결 문제 같은데?
 
-첨부: 스크린샷 파일들
-```
 
 ### 첨부 파일 목록
 1. `claude_code_screenshot.png` - Claude Code 설치 확인 화면 (`claude --version` 또는 `claude doctor`)
