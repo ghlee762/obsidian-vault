@@ -11,10 +11,24 @@
             "id": "70a74a0fd9719abc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "회전익기_동력전달장치_개발동향_요약.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "회전익기_동력전달장치_개발동향_요약"
             }
           }
         ]
@@ -193,10 +207,12 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "55d416360b50ca84",
+  "active": "70a74a0fd9719abc",
   "lastOpenFiles": [
-    "Inbox/Test 프롬프트1.md",
+    "회전익기_동력전달장치_경량화_국외기술동향.md",
+    "퇴직준비세미나_1회차_세미나_공지.md",
     "회전익기_동력전달장치_개발동향_요약.md",
+    "Inbox/Test 프롬프트1.md",
     "Inbox/무제 1.md",
     "Files/ㅅㅅ.canvas",
     "회치별자율학습자료/회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
@@ -222,7 +238,6 @@
     "Files/기어박스_설계도면.png",
     "Files/gearbox_design_agma.py",
     "Files/에이전트_오케스트레이션_어려움.md",
-    "퇴직준비세미나_1회차_세미나_공지.md",
     "Inbox/프론트매터.md",
     "test1.md",
     "text1.txt",
@@ -230,7 +245,6 @@
     "무제/환영합니다!.md",
     "무제 1",
     "Daily Notes",
-    "2026-01-27.md",
     "무제.base",
     "Files",
     "Inbox"
