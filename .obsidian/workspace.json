@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회전익기_동력전달장치_개발동향_요약.md",
+                "file": "회치별자율학습자료/Homework/Phase2_Claude_Code_자동화_태스크.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Phase2_Claude_Code_자동화_태스크"
+            }
+          },
+          {
+            "id": "e9d2c145e3bb0d46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/폴더정리 업무분석.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "회전익기_동력전달장치_개발동향_요약"
+              "title": "폴더정리 업무분석"
             }
           }
         ]
@@ -159,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회전익기_동력전달장치_개발동향_요약.md",
+                "file": "회치별자율학습자료/Homework/Phase2_Claude_Code_자동화_태스크.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "회전익기_동력전달장치_개발동향_요약 의 개요"
+              "title": "Phase2_Claude_Code_자동화_태스크 의 개요"
             }
           }
         ],
@@ -194,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,44 +233,53 @@
   },
   "active": "70a74a0fd9719abc",
   "lastOpenFiles": [
-    "회전익기_동력전달장치_경량화_국외기술동향.md",
-    "퇴직준비세미나_1회차_세미나_공지.md",
-    "회전익기_동력전달장치_개발동향_요약.md",
-    "Inbox/Test 프롬프트1.md",
-    "Inbox/무제 1.md",
-    "Files/ㅅㅅ.canvas",
-    "회치별자율학습자료/회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
-    "회치별자율학습자료/CLAUDE.md",
-    "회치별자율학습자료/퇴직준비세미나_자율학습_가이드.md",
-    "회치별자율학습자료",
-    "Phase1_기본환경설정_도구설치.md",
-    "Files/투자_포트폴리오_종합재무설계.md",
-    "회치별자율학습자료/회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
-    "회치별자율학습자료/회차별자료/8회차_발표자료부터_데이터_분석까지.md",
-    "회치별자율학습자료/회차별자료/7회차_1인_연구자의_무기들.md",
-    "회치별자율학습자료/회차별자료/6회차_Claude_Skill_자동_문서화.md",
-    "회치별자율학습자료/회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
-    "회치별자율학습자료/회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
-    "회치별자율학습자료/회차별자료/2회차_프롬프트_엔지니어링_기초.md",
-    "회치별자율학습자료/회차별자료/1회차_오리엔테이션_환경설정.md",
-    "회치별자율학습자료/회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
-    "회치별자율학습자료/회차별자료",
-    "nul",
-    "Inbox/기어박스 design_test.md",
-    "기어박스_설계_AGMA.md",
-    "Files/에이전트_오케스트레이션_한계.png",
-    "Files/기어박스_설계도면.png",
-    "Files/gearbox_design_agma.py",
-    "Files/에이전트_오케스트레이션_어려움.md",
-    "Inbox/프론트매터.md",
-    "test1.md",
-    "text1.txt",
-    "Inbox/---.md",
-    "무제/환영합니다!.md",
-    "무제 1",
-    "Daily Notes",
-    "무제.base",
-    "Files",
-    "Inbox"
+    "Templates/프로젝트_템플릿.md",
+    "Templates/새_문서_템플릿.md",
+    "Projects/기어박스_설계/tools/kisssoft_gear_optimization.py",
+    "Projects/기어박스_설계/tools/extract_pdf_images.py",
+    "Projects/기어박스_설계/tools",
+    "Guides/프론트매터.md",
+    "References/Agent화 설계문서 작성.md",
+    "Projects/기어박스_설계/기어박스 design_test.md",
+    "Projects/투자_재무설계/투자_포트폴리오_종합재무설계.md",
+    "References/에이전트_오케스트레이션_어려움.md",
+    "Projects/기어박스_설계/gearbox_design_agma.py",
+    "Attachments/ㅅㅅ.canvas",
+    "Attachments/에이전트_오케스트레이션_한계.png",
+    "Attachments/기어박스_설계도면.png",
+    "Attachments/Pasted image 20260212111150.png",
+    "Attachments/Effectiveness_Shrouding/fig9.png",
+    "Attachments/Effectiveness_Shrouding/fig7.png",
+    "Attachments/Effectiveness_Shrouding/fig8.png",
+    "Attachments/Effectiveness_Shrouding/fig6.png",
+    "Attachments/Effectiveness_Shrouding/fig4.png",
+    "Attachments/Effectiveness_Shrouding/fig5.png",
+    "Attachments/Effectiveness_Shrouding/fig3.png",
+    "Attachments/Effectiveness_Shrouding",
+    "Guides/옵시디언_볼트_정리_가이드.md",
+    "Projects/기어박스_설계/harmonic_drive_dev_guide.md",
+    "Projects/기어박스_설계/gearbox_opensource_guide.md",
+    "Seminars/Phase1_기본환경설정_도구설치.md",
+    "Seminars/퇴직준비세미나_자율학습_가이드.md",
+    "Seminars/공지사항/퇴직준비세미나_1회차_세미나_공지.md",
+    "Seminars/Homework/퇴직준비세미나_Phase2_사전과제_공지.md",
+    "Seminars/Homework/Phase2_Claude_Code_자동화_태스크.md",
+    "Seminars/Homework/Phase2 HW.md",
+    "Seminars/회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
+    "Seminars/회차별자료/8회차_발표자료부터_데이터_분석까지.md",
+    "Seminars/회차별자료/7회차_1인_연구자의_무기들.md",
+    "Seminars/회차별자료/6회차_Claude_Skill_자동_문서화.md",
+    "Seminars/회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
+    "Seminars/회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
+    "Seminars/회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+    "Seminars/회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+    "Seminars/회차별자료/1회차_오리엔테이션_환경설정.md",
+    "Seminars/회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
+    "Archive",
+    "Attachments",
+    "Guides",
+    "Templates",
+    "Seminars/회차별자료",
+    "Inbox/Files/ㅅㅅ.canvas"
   ]
 }
