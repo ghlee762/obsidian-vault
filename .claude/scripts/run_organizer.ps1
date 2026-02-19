@@ -8,11 +8,10 @@ $result = [System.Windows.Forms.MessageBox]::Show(
 )
 
 if ($result -eq [System.Windows.Forms.DialogResult]::Yes) {
-    $scriptPath = "C:/task/Obsidian_Vault/이근호/퇴직준비세미나_이근호/.claude/scripts/vault_organizer.sh"
-    $gitBash = "C:\Program Files\Git\bin\bash.exe"
+    $batFile = Join-Path $PSScriptRoot "run_bash.bat"
 
-    if (Test-Path $gitBash) {
-        $process = Start-Process -FilePath $gitBash -ArgumentList "-c", "`"$scriptPath`"" -Wait -PassThru -NoNewWindow
+    if (Test-Path $batFile) {
+        $process = Start-Process -FilePath "cmd.exe" -ArgumentList "/c", "`"$batFile`"" -Wait -PassThru -NoNewWindow
 
         if ($process.ExitCode -eq 0) {
             [System.Windows.Forms.MessageBox]::Show(
@@ -21,10 +20,17 @@ if ($result -eq [System.Windows.Forms.DialogResult]::Yes) {
                 [System.Windows.Forms.MessageBoxButtons]::OK,
                 [System.Windows.Forms.MessageBoxIcon]::Information
             )
+        } else {
+            [System.Windows.Forms.MessageBox]::Show(
+                "Script finished with errors.`nExit code: $($process.ExitCode)",
+                "Vault Organizer - Warning",
+                [System.Windows.Forms.MessageBoxButtons]::OK,
+                [System.Windows.Forms.MessageBoxIcon]::Warning
+            )
         }
     } else {
         [System.Windows.Forms.MessageBox]::Show(
-            "Git Bash not found.`nPlease check if Git is installed.",
+            "run_bash.bat not found at:`n$batFile",
             "Vault Organizer - Error",
             [System.Windows.Forms.MessageBoxButtons]::OK,
             [System.Windows.Forms.MessageBoxIcon]::Error
